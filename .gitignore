@@ -1,3 +1,5 @@
 *.csv
 .env
 __pycache__/
+*.pyc
+secuencial_out.txt
